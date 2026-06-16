@@ -35,7 +35,7 @@
 
 <!-- DIVIDER 1 -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Fading Line Divider" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%" alt="Dinosaur Divider" />
 </p>
 
 <!-- TWO‑COLUMN: ABOUT + STATS -->
@@ -48,7 +48,9 @@
       <p align="center">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&pause=1000&color=00E5FF&background=00000000&center=false&vCenter=true&multiline=true&width=350&height=180&lines=%3E+Initializing+Player+1+Core...;%3E+Designation:+AI+%26+ML+Engineer;%3E+Current+Quest:+LAMINAR+Vision;%3E+Skill+Tree:+Deep+Learning,+CV;%3E+Trophies:+2nd+Runner-Up+@+Hackathon;%3E+Objective:+Engineering+the+future;%3E+Status:+Ready." alt="Hacker Terminal" />
       </p>
-      <br>
+      <p align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="180" alt="Mr Robot" />
+      </p>
       <p align="center">
         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave" alt="Daily Quote" />
       </p>
@@ -67,7 +69,7 @@
 
 <!-- DIVIDER 2 -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Gradient Line Divider" />
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" alt="Cat & Mouse Divider" />
 </p>
 
 <!-- TECH STACK -->
@@ -135,7 +137,7 @@
 
 <!-- DIVIDER 4 -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Gradient Line Divider" />
+  <img src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" width="100%" alt="Keep Moving Forward Divider" />
 </p>
 
 <!-- ACTIVITY GRAPH -->
@@ -143,7 +145,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&height=40&lines=🕹️+TELEMETRY+(ACTIVITY)" alt="Activity Graph" />
 </p>
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="25%" align="left" alt="Cool Stats Laptop" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="25%" align="left" alt="Ultra Fast Typing Cat" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhargavatejagolla&bg_color=0D1117&color=FF00FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true" width="70%" alt="Activity Graph" />
 </p>
 
@@ -201,6 +203,8 @@
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width="200" alt="Code the cool stuff" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/0bf134e2-c0ba-488b-bbd4-9300f2f77871" width="300" alt="Code with Peace" />
 </p>
 <p align="center">
   <b>📫 Let’s connect!</b><br>
