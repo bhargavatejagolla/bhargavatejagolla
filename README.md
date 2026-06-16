@@ -8,6 +8,10 @@
 -->
 
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Mario Pixel Art Desk">
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00E5FF&height=250&section=header&text=PLAYER%201%20READY...&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Building%20Intelligent%20Systems&descAlignY=55&descAlign=50" width="100%" alt="Glowing Header"/>
 </p>
 
@@ -25,15 +29,18 @@
 </p>
 
 <p align="center">
+  <a href="#"><img src="https://user-images.githubusercontent.com/74038190/221352968-ac6f7b24-ed9a-4d00-a045-710caa6fc834.gif" width="40"></a>
   <a href="https://my-portfolio-backend-zeta-gray.vercel.app"><img src="https://img.shields.io/badge/🚀_Portfolio-FF00FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/golla-bhargava-teja"><img src="https://img.shields.io/badge/💼_LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/></a>
   <a href="mailto:bhargavatejagolla@gmail.com"><img src="https://img.shields.io/badge/📧_Email-FF0055?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/bhargavatejagolla"><img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <img src="https://komarev.com/ghpvc/?username=bhargavatejagolla&label=👁️_Profile_Views&color=00FFCC&style=for-the-badge" alt="Profile Views" />
+  <a href="#"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/63338029-e963-463a-88cb-c8f39c73e8d9" width="40"></a>
 </p>
 
+<!-- DIVIDER 1 -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Animated Gradient Divider" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Fading Line Divider" />
 </p>
 
 <!-- TWO‑COLUMN: ABOUT + STATS -->
@@ -60,14 +67,16 @@
       <h3 align="center">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="30" align="center" /> 📊 Player Stats
       </h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=bhargavatejagolla&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&rank_icon=github&include_all_commits=true" alt="GitHub Stats" width="100%" /><br><br>
+      <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="150" align="right" alt="3D Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=bhargavatejagolla&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&rank_icon=github&include_all_commits=true" alt="GitHub Stats" width="100%" />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavatejagolla&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117" alt="Top Languages" width="100%" />
     </td>
   </tr>
 </table>
 
+<!-- DIVIDER 2 -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Animated Gradient Divider" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7f4fb7d4-5787-4f72-9a4d-9fb16d3cab39" width="100%" alt="Theme Divider" />
 </p>
 
 <!-- TECH STACK -->
@@ -76,18 +85,22 @@
 </p>
 <table width="100%" style="border: none; background: transparent;">
   <tr>
-    <td width="30%" align="center" valign="middle" style="border: none; background: transparent;">
+    <td width="20%" align="center" valign="middle" style="border: none; background: transparent;">
        <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="150" alt="Tech Stack Floating">
     </td>
-    <td width="70%" align="center" valign="middle" style="border: none; background: transparent;">
+    <td width="60%" align="center" valign="middle" style="border: none; background: transparent;">
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=python,c,java,ts,js,html,css,react,nextjs,tailwind&perline=10" /><br><br>
         <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,postgres,mysql,sqlite,arduino,git,github,vscode&perline=10" />
       </a>
     </td>
+    <td width="20%" align="center" valign="middle" style="border: none; background: transparent;">
+       <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/af212da4-8588-4d7c-8400-16e56f2746a0" width="150" alt="Floating Work Structure">
+    </td>
   </tr>
 </table>
 
+<!-- DIVIDER 3 -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Animated Gradient Divider" />
 </p>
@@ -99,15 +112,13 @@
 <table width="100%" style="border: none; background: transparent;">
   <tr>
     <td width="20%" align="center" valign="middle" style="border: none; background: transparent;">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="100" alt="Alien Animation" />
-      <br><i>Squashing bugs!</i>
+      <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="120" alt="Pacman" />
     </td>
     <td width="60%" align="center" valign="middle" style="border: none; background: transparent;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhargavatejagolla&theme=synthwave&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%" />
     </td>
     <td width="20%" align="center" valign="middle" style="border: none; background: transparent;">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pick.png" width="100" alt="Pickaxe Mining" />
-      <br><i>Mining commits!</i>
     </td>
   </tr>
 </table>
@@ -125,8 +136,9 @@
   </picture>
 </p>
 
+<!-- DIVIDER 4 -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Animated Gradient Divider" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/bbda02a2-36d3-48ef-a3a8-41b0d17653d5" width="100%" alt="Theme Divider 2" />
 </p>
 
 <!-- ACTIVITY GRAPH -->
@@ -134,16 +146,21 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&height=40&lines=🕹️+TELEMETRY+(ACTIVITY)" alt="Activity Graph" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhargavatejagolla&bg_color=0D1117&color=FF00FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="200" align="left" alt="Cool Stats Laptop" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhargavatejagolla&bg_color=0D1117&color=FF00FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true" width="70%" alt="Activity Graph" />
 </p>
 
+<!-- DIVIDER 5 -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Animated Gradient Divider" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/324065af-8ea3-453a-83a3-66ccba5797fb" width="100%" alt="Theme Divider 3" />
 </p>
 
 <!-- MAIN QUESTS (FEATURED PROJECTS) -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&height=40&lines=⚔️+MAIN+QUESTS" alt="Main Quests" />
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="250" alt="Pro Coder" />
 </p>
 <table width="100%" style="border-collapse: collapse; border: none; background: transparent;">
   <tr>
@@ -176,8 +193,9 @@
   </tr>
 </table>
 
+<!-- DIVIDER 6 -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Animated Gradient Divider" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f24776c2-0bd1-456a-af11-b5fbf93ffb78" width="100%" alt="Theme Divider 4" />
 </p>
 
 <!-- ROBOT DANCE PARTY / FOOTER -->
@@ -188,13 +206,8 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="400" alt="Animated Hello Banner">
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="80" alt="Robot Emoji" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="80" alt="Hacker Emoji" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="80" alt="PC Emoji" />
-  <br>
-  <i>“Talk is cheap. Show me the code.”</i> – <b>Linus Torvalds</b>
+  <img src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width="200" alt="Code the cool stuff" />
 </p>
-
 <p align="center">
   <b>📫 Let’s connect!</b><br>
   <a href="https://my-portfolio-backend-zeta-gray.vercel.app">Portfolio</a> ·
@@ -203,7 +216,6 @@
   <br><br>
   <i>⚡ “The best way to predict the future is to build it.” – Alan Kay</i>
 </p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00E5FF&height=100&section=footer" width="100%" alt="Glowing Footer"/>
 </p>
