@@ -35,7 +35,7 @@
 
 <!-- DIVIDER 1 -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%" alt="Dinosaur Divider" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Fading Line Divider" />
 </p>
 
 <!-- TWO‑COLUMN: ABOUT + STATS -->
@@ -45,12 +45,14 @@
       <h3 align="center">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" width="30" align="center" /> 📜 Quest Log
       </h3>
-      <p align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&pause=1000&color=00E5FF&background=00000000&center=false&vCenter=true&multiline=true&width=350&height=180&lines=%3E+Initializing+Player+1+Core...;%3E+Designation:+AI+%26+ML+Engineer;%3E+Current+Quest:+LAMINAR+Vision;%3E+Skill+Tree:+Deep+Learning,+CV;%3E+Trophies:+2nd+Runner-Up+@+Hackathon;%3E+Objective:+Engineering+the+future;%3E+Status:+Ready." alt="Hacker Terminal" />
-      </p>
-      <p align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="180" alt="Mr Robot" />
-      </p>
+      <ul>
+        <li><strong>👨‍💻 Designation:</strong> AI &amp; ML Engineer · Competitive Coder</li>
+        <li><strong>🚀 Current Quest:</strong> Building <i>LAMINAR</i>, an AI Vision System</li>
+        <li><strong>🧠 Skill Tree:</strong> Deep Learning · LLMs · CV · Full‑Stack</li>
+        <li><strong>🏆 Trophies:</strong> <span style="color:#00E5FF;">2nd Runner‑Up</span> @ T‑Hub AI Hackathon</li>
+        <li><strong>🎯 Main Objective:</strong> Engineering intelligent algorithms.</li>
+      </ul>
+      <br>
       <p align="center">
         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave" alt="Daily Quote" />
       </p>
@@ -137,7 +139,7 @@
 
 <!-- DIVIDER 4 -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" width="100%" alt="Keep Moving Forward Divider" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Gradient Line Divider" />
 </p>
 
 <!-- ACTIVITY GRAPH -->
@@ -203,8 +205,6 @@
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width="200" alt="Code the cool stuff" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/0bf134e2-c0ba-488b-bbd4-9300f2f77871" width="300" alt="Code with Peace" />
 </p>
 <p align="center">
   <b>📫 Let’s connect!</b><br>
