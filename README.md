@@ -50,7 +50,6 @@
         <li><strong>👨‍💻 Designation:</strong> AI &amp; ML Engineer · Data Science Enthusiast</li>
         <li><strong>🎯 Main Objective:</strong> Applying computational techniques to real-world problems.</li>
         <li><strong>🧠 Focus Areas:</strong> Machine Learning, Deep Learning, Data Science, DSA</li>
-        <li><strong>🌐 Portfolio:</strong> <a href="https://my-portfolio-backend-zeta-gray.vercel.app">my-portfolio-backend-zeta-gray.vercel.app</a></li>
       </ul>
       <br>
       <p align="center">
@@ -204,10 +203,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&height=40&lines=📜+SIDE+QUESTS+(CERTIFICATES)" alt="Certificates" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Military%20Medal.png" width="30" /> <b>CodeChef:</b> Data Structures &amp; Algorithms, Python Programming, SQL for Data Analysis <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" width="20" /><br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Military%20Medal.png" width="30" /> <b>Cisco Networking Academy:</b> Introduction to Modern AI &amp; Data Science (2026) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" width="20" /><br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Military%20Medal.png" width="30" /> <b>Udemy:</b> Power BI, Machine Learning &amp; Data Science <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" width="20" /><br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Military%20Medal.png" width="30" /> <b>Language:</b> Cambridge English Qualification – B1 Level <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" width="20" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Military%20Medal.png" width="30" /> <b>CodeChef:</b> Data Structures &amp; Algorithms, Python Programming, SQL for Data Analysis<br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Military%20Medal.png" width="30" /> <b>Cisco Networking Academy:</b> Introduction to Modern AI &amp; Data Science (2026)<br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Military%20Medal.png" width="30" /> <b>Udemy:</b> Power BI, Machine Learning &amp; Data Science<br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Military%20Medal.png" width="30" /> <b>Language:</b> Cambridge English Qualification – B1 Level
 </p>
 
 <!-- DIVIDER 6 -->
@@ -223,11 +222,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width="200" alt="Code the cool stuff" />
 </p>
 <p align="center">
-  <b>📫 Let’s connect!</b><br>
-  <a href="https://my-portfolio-backend-zeta-gray.vercel.app">Portfolio</a> ·
-  <a href="https://linkedin.com/in/golla-bhargava-teja">LinkedIn</a> ·
-  <a href="mailto:bhargavatejagolla@gmail.com">Email</a>
-  <br><br>
   <i>⚡ “The best way to predict the future is to build it.” – Alan Kay</i>
 </p>
 <p align="center">
