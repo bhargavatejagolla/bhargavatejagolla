@@ -46,11 +46,11 @@
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" width="30" align="center" /> 📜 Quest Log
       </h3>
       <ul>
-        <li><strong>👨‍💻 Designation:</strong> AI &amp; ML Engineer · Competitive Coder</li>
-        <li><strong>🚀 Current Quest:</strong> Building <i>LAMINAR</i>, an AI Vision System</li>
-        <li><strong>🧠 Skill Tree:</strong> Deep Learning · LLMs · CV · Full‑Stack</li>
-        <li><strong>🏆 Trophies:</strong> <span style="color:#00E5FF;">2nd Runner‑Up</span> @ T‑Hub AI Hackathon</li>
-        <li><strong>🎯 Main Objective:</strong> Engineering intelligent algorithms.</li>
+        <li><strong>🎓 Education:</strong> B.Tech in CSE @ CMR College of Engineering (CGPA: <span style="color:#00E5FF;">8.86</span>)</li>
+        <li><strong>👨‍💻 Designation:</strong> AI &amp; ML Engineer · Data Science Enthusiast</li>
+        <li><strong>🎯 Main Objective:</strong> Applying computational techniques to real-world problems.</li>
+        <li><strong>🧠 Focus Areas:</strong> Machine Learning, Deep Learning, Data Science, DSA</li>
+        <li><strong>🌐 Portfolio:</strong> <a href="https://my-portfolio-backend-zeta-gray.vercel.app">my-portfolio-backend-zeta-gray.vercel.app</a></li>
       </ul>
       <br>
       <p align="center">
@@ -86,12 +86,12 @@
     <td width="60%" align="center" valign="middle" style="border: none; background: transparent;">
       <div align="center">
         <br>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="35" align="center" />&nbsp;
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" align="center"/><br><br>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="35" align="center" />&nbsp;
-        <img src="https://skillicons.dev/icons?i=python,java,c,tensorflow,pytorch,sklearn" align="center"/><br><br>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" width="35" align="center" />&nbsp;
-        <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,arduino,git,github,vscode" align="center"/>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" width="35" align="center" title="Languages" />&nbsp;
+        <img src="https://skillicons.dev/icons?i=python,c,java,html,css,mysql,postgres" align="center"/><br><br>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35" align="center" title="AI & Data Science" />&nbsp;
+        <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" align="center"/><br><br>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" width="35" align="center" title="Tools & Hardware" />&nbsp;
+        <img src="https://skillicons.dev/icons?i=vscode,github,git,arduino" align="center"/>
         <br>
       </div>
     </td>
@@ -147,7 +147,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&height=40&lines=🕹️+TELEMETRY+(ACTIVITY)" alt="Activity Graph" />
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="25%" align="left" alt="Ultra Fast Typing Cat" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="25%" align="left" alt="Cool Stats Laptop" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhargavatejagolla&bg_color=0D1117&color=FF00FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true" width="70%" alt="Activity Graph" />
 </p>
 
@@ -168,31 +168,47 @@
     <td width="50%" style="padding: 15px; border: 2px solid #FF00FF; border-radius: 12px; background: rgba(255,0,255,0.05);">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" width="40" align="right" />
       <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=16&pause=1000&color=FF00FF&center=false&vCenter=true&width=300&height=30&lines=🤖+LAMINAR+–+AI+Vision" alt="LAMINAR" /><br>
-      High‑performance monitoring for HD streams. <b>↓ 35% latency</b> &amp; <b>95%</b> anomaly detection accuracy.<br>
-      <i>Python · Computer Vision · AI</i>
+      Developed an AI-based vision monitoring system. Designed backend architecture to manage camera services, worker lifecycle, and frame ingestion pipelines.<br>
+      <i><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Blue%20Circle.png" width="15" /> Python · Computer Vision · AI</i>
     </td>
     <td width="50%" style="padding: 15px; border: 2px solid #00E5FF; border-radius: 12px; background: rgba(0,229,255,0.05);">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dog%20Face.png" width="40" align="right" />
-      <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=16&pause=1000&color=00E5FF&center=false&vCenter=true&width=300&height=30&lines=🐶+Deep+Learning+Dog+Vision" alt="Dog Vision" /><br>
-      Real‑time breed classification with <b>93%</b> top‑1 accuracy via transfer learning on 10k+ images.<br>
-      <i>Python · Neural Networks · Colab</i>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" width="40" align="right" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=16&pause=1000&color=00E5FF&center=false&vCenter=true&width=350&height=30&lines=🧠+Deep+Learning+Models" alt="Deep Learning Model Development" /><br>
+      Implemented deep learning models and neural network experiments. Explored training workflows, data preprocessing, and optimization techniques.<br>
+      <i><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Purple%20Circle.png" width="15" /> Python · Neural Networks · Colab</i>
     </td>
   </tr>
   <tr>
     <td width="50%" style="padding: 15px; border: 2px solid #00E5FF; border-radius: 12px; background: rgba(0,229,255,0.05);">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Tractor.png" width="40" align="right" />
-      <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=16&pause=1000&color=00E5FF&center=false&vCenter=true&width=300&height=30&lines=🚜+Bulldozer+Prediction" alt="Bulldozer Prediction" /><br>
-      End‑to‑end regression pipeline on 400k+ records, engineered 30+ features, <b>RMSLE 0.24</b>.<br>
-      <i>Scikit‑Learn · Pandas</i>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="40" align="right" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=16&pause=1000&color=00E5FF&center=false&vCenter=true&width=300&height=30&lines=📊+Data+Analytics+Simulation" alt="Data Analytics Simulation" /><br>
+      Completed Data Analytics Job Simulations for <b>Deloitte</b> &amp; <b>Tata</b> (Forage, 2025). Built foundational knowledge in data visualization and GenAI analytics.<br>
+      <i><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Purple%20Circle.png" width="15" /> Power BI · Data Science</i>
     </td>
     <td width="50%" style="padding: 15px; border: 2px solid #FF00FF; border-radius: 12px; background: rgba(255,0,255,0.05);">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" width="40" align="right" />
-      <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=16&pause=1000&color=FF00FF&center=false&vCenter=true&width=300&height=30&lines=🌱+Smart+Plant+System" alt="Smart Plant" /><br>
-      IoT‑based irrigation with Arduino – <b>30% water saved</b>, autonomous operation for 3+ months.<br>
-      <i>Arduino · IoT · C++</i>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=16&pause=1000&color=FF00FF&center=false&vCenter=true&width=300&height=30&lines=🌱+Automatic+Plant+Watering" alt="Smart Plant" /><br>
+      Designed an automated irrigation system using Arduino sensors. Implemented soil moisture monitoring to trigger automatic watering and improve water efficiency.<br>
+      <i><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Blue%20Circle.png" width="15" /> Arduino · IoT</i>
     </td>
   </tr>
 </table>
+
+<!-- DIVIDER 7 -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%" alt="Cat & Mouse Divider" />
+</p>
+
+<!-- SIDE QUESTS (CERTIFICATES) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&height=40&lines=📜+SIDE+QUESTS+(CERTIFICATES)" alt="Certificates" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Military%20Medal.png" width="30" /> <b>CodeChef:</b> Data Structures &amp; Algorithms, Python Programming, SQL for Data Analysis <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" width="20" /><br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Military%20Medal.png" width="30" /> <b>Cisco Networking Academy:</b> Introduction to Modern AI &amp; Data Science (2026) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" width="20" /><br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Military%20Medal.png" width="30" /> <b>Udemy:</b> Power BI, Machine Learning &amp; Data Science <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" width="20" /><br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Military%20Medal.png" width="30" /> <b>Language:</b> Cambridge English Qualification – B1 Level <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" width="20" />
+</p>
 
 <!-- DIVIDER 6 -->
 <p align="center">
