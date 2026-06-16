@@ -45,13 +45,9 @@
       <h3 align="center">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" width="30" align="center" /> 📜 Quest Log
       </h3>
-      <ul>
-        <li><strong>👨‍💻 Designation:</strong> AI &amp; ML Engineer · Competitive Coder</li>
-        <li><strong>🚀 Current Quest:</strong> Building <i>LAMINAR</i>, an AI Vision System</li>
-        <li><strong>🧠 Skill Tree:</strong> Deep Learning · LLMs · CV · Full‑Stack</li>
-        <li><strong>🏆 Trophies:</strong> <span style="color:#00E5FF;">2nd Runner‑Up</span> @ T‑Hub AI Hackathon</li>
-        <li><strong>🎯 Main Objective:</strong> Engineering intelligent algorithms.</li>
-      </ul>
+      <p align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&pause=1000&color=00E5FF&background=00000000&center=false&vCenter=true&multiline=true&width=350&height=180&lines=%3E+Initializing+Player+1+Core...;%3E+Designation:+AI+%26+ML+Engineer;%3E+Current+Quest:+LAMINAR+Vision;%3E+Skill+Tree:+Deep+Learning,+CV;%3E+Trophies:+2nd+Runner-Up+@+Hackathon;%3E+Objective:+Engineering+the+future;%3E+Status:+Ready." alt="Hacker Terminal" />
+      </p>
       <br>
       <p align="center">
         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave" alt="Daily Quote" />
@@ -167,13 +163,13 @@
   <tr>
     <td width="50%" style="padding: 15px; border: 2px solid #FF00FF; border-radius: 12px; background: rgba(255,0,255,0.05);">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" width="40" align="right" />
-      <b>🤖 LAMINAR – AI Vision System</b><br>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=16&pause=1000&color=FF00FF&center=false&vCenter=true&width=300&height=30&lines=🤖+LAMINAR+–+AI+Vision" alt="LAMINAR" /><br>
       High‑performance monitoring for HD streams. <b>↓ 35% latency</b> &amp; <b>95%</b> anomaly detection accuracy.<br>
       <i>Python · Computer Vision · AI</i>
     </td>
     <td width="50%" style="padding: 15px; border: 2px solid #00E5FF; border-radius: 12px; background: rgba(0,229,255,0.05);">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dog%20Face.png" width="40" align="right" />
-      <b>🐶 Deep Learning Dog Vision</b><br>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=16&pause=1000&color=00E5FF&center=false&vCenter=true&width=300&height=30&lines=🐶+Deep+Learning+Dog+Vision" alt="Dog Vision" /><br>
       Real‑time breed classification with <b>93%</b> top‑1 accuracy via transfer learning on 10k+ images.<br>
       <i>Python · Neural Networks · Colab</i>
     </td>
@@ -181,13 +177,13 @@
   <tr>
     <td width="50%" style="padding: 15px; border: 2px solid #00E5FF; border-radius: 12px; background: rgba(0,229,255,0.05);">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Tractor.png" width="40" align="right" />
-      <b>🚜 Bulldozer Price Prediction</b><br>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=16&pause=1000&color=00E5FF&center=false&vCenter=true&width=300&height=30&lines=🚜+Bulldozer+Prediction" alt="Bulldozer Prediction" /><br>
       End‑to‑end regression pipeline on 400k+ records, engineered 30+ features, <b>RMSLE 0.24</b>.<br>
       <i>Scikit‑Learn · Pandas</i>
     </td>
     <td width="50%" style="padding: 15px; border: 2px solid #FF00FF; border-radius: 12px; background: rgba(255,0,255,0.05);">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" width="40" align="right" />
-      <b>🌱 Smart Plant System</b><br>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=16&pause=1000&color=FF00FF&center=false&vCenter=true&width=300&height=30&lines=🌱+Smart+Plant+System" alt="Smart Plant" /><br>
       IoT‑based irrigation with Arduino – <b>30% water saved</b>, autonomous operation for 3+ months.<br>
       <i>Arduino · IoT · C++</i>
     </td>
