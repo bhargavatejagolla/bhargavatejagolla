@@ -203,10 +203,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&height=40&lines=📜+SIDE+QUESTS+(CERTIFICATES)" alt="Certificates" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Military%20Medal.png" width="30" /> <b>CodeChef:</b> Data Structures &amp; Algorithms, Python Programming, SQL for Data Analysis<br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Military%20Medal.png" width="30" /> <b>Cisco Networking Academy:</b> Introduction to Modern AI &amp; Data Science (2026)<br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Military%20Medal.png" width="30" /> <b>Udemy:</b> Power BI, Machine Learning &amp; Data Science<br>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Military%20Medal.png" width="30" /> <b>Language:</b> Cambridge English Qualification – B1 Level
+  🎖️ <b>CodeChef:</b> Data Structures &amp; Algorithms, Python Programming, SQL for Data Analysis<br>
+  🎖️ <b>Cisco Networking Academy:</b> Introduction to Modern AI &amp; Data Science (2026)<br>
+  🎖️ <b>Udemy:</b> Power BI, Machine Learning &amp; Data Science<br>
+  🎖️ <b>Language:</b> Cambridge English Qualification – B1 Level
 </p>
 
 <!-- DIVIDER 6 -->
