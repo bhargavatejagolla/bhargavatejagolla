@@ -16,6 +16,10 @@
 </h1>
 
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="400" alt="Hello World Multiple Languages">
+</p>
+
+<p align="center">
   <b>⭐ CLASS: AI ENGINEER</b> &nbsp;|&nbsp; <b>🎓 LEVEL: 2028</b> &nbsp;|&nbsp; <b>🏆 XP: 8.86 CGPA</b><br>
   <i>“Building intelligent systems and leveling up the future.”</i>
 </p>
@@ -29,7 +33,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Animated Gradient Divider" />
 </p>
 
 <!-- TWO‑COLUMN: ABOUT + STATS -->
@@ -63,22 +67,29 @@
 </table>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Animated Gradient Divider" />
 </p>
 
 <!-- TECH STACK -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&height=40&lines=🎒+INVENTORY+(TECH+STACK)" alt="Tech Stack" />
 </p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,java,ts,js,html,css,react,nextjs,tailwind&perline=10" /><br><br>
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,postgres,mysql,sqlite,arduino,git,github,vscode&perline=10" />
-  </a>
-</p>
+<table width="100%" style="border: none; background: transparent;">
+  <tr>
+    <td width="30%" align="center" valign="middle" style="border: none; background: transparent;">
+       <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="150" alt="Tech Stack Floating">
+    </td>
+    <td width="70%" align="center" valign="middle" style="border: none; background: transparent;">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,c,java,ts,js,html,css,react,nextjs,tailwind&perline=10" /><br><br>
+        <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,postgres,mysql,sqlite,arduino,git,github,vscode&perline=10" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Animated Gradient Divider" />
 </p>
 
 <!-- STREAK & SNAKE ANIMATION -->
@@ -105,7 +116,6 @@
 
 <p align="center">
   <b>🐍 The Snake is eating the contribution graph!</b><br>
-  <i>(If you see a broken image here, please run your "Generate Snake" GitHub Action in the Actions tab!)</i>
 </p>
 <p align="center">
   <picture>
@@ -116,7 +126,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Animated Gradient Divider" />
 </p>
 
 <!-- ACTIVITY GRAPH -->
@@ -128,7 +138,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Animated Gradient Divider" />
 </p>
 
 <!-- MAIN QUESTS (FEATURED PROJECTS) -->
@@ -167,12 +177,15 @@
 </table>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Animated Gradient Divider" />
 </p>
 
 <!-- ROBOT DANCE PARTY / FOOTER -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&height=40&lines=🤖+PLAYER+1+HUB" alt="Player 1 Hub" />
+</p>
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="400" alt="Animated Hello Banner">
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="80" alt="Robot Emoji" />
