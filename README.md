@@ -81,7 +81,7 @@
 <table width="100%" style="border: none; background: transparent;">
   <tr>
     <td width="20%" align="center" valign="middle" style="border: none; background: transparent;">
-       <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="150" alt="Tech Stack Floating">
+       <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="80%" alt="Tech Stack Floating">
     </td>
     <td width="60%" align="center" valign="middle" style="border: none; background: transparent;">
       <a href="https://skillicons.dev">
@@ -90,14 +90,14 @@
       </a>
     </td>
     <td width="20%" align="center" valign="middle" style="border: none; background: transparent;">
-       <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/af212da4-8588-4d7c-8400-16e56f2746a0" width="150" alt="Floating Work Structure">
+       <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/af212da4-8588-4d7c-8400-16e56f2746a0" width="80%" alt="Floating Work Structure">
     </td>
   </tr>
 </table>
 
-<!-- DIVIDER 3 -->
+<!-- PACMAN DIVIDER -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Fading Line Divider" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="Pacman" />
 </p>
 
 <!-- STREAK & SNAKE ANIMATION -->
@@ -107,13 +107,13 @@
 <table width="100%" style="border: none; background: transparent;">
   <tr>
     <td width="20%" align="center" valign="middle" style="border: none; background: transparent;">
-      <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="120" alt="Pacman" />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="80%" alt="Alien Monster" />
     </td>
     <td width="60%" align="center" valign="middle" style="border: none; background: transparent;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhargavatejagolla&theme=synthwave&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%" />
     </td>
     <td width="20%" align="center" valign="middle" style="border: none; background: transparent;">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pick.png" width="100" alt="Pickaxe Mining" />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pick.png" width="80%" alt="Pickaxe Mining" />
     </td>
   </tr>
 </table>
@@ -141,7 +141,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&height=40&lines=🕹️+TELEMETRY+(ACTIVITY)" alt="Activity Graph" />
 </p>
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="200" align="left" alt="Cool Stats Laptop" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="25%" align="left" alt="Cool Stats Laptop" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhargavatejagolla&bg_color=0D1117&color=FF00FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true" width="70%" alt="Activity Graph" />
 </p>
 
