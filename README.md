@@ -36,7 +36,9 @@
 <table width="100%" style="border-collapse: collapse; border: none; background: transparent;">
   <tr>
     <td width="48%" valign="top" style="padding: 15px; border: 2px solid #FF00FF; border-radius: 12px; background: rgba(255,0,255,0.05);">
-      <h3 align="center">📜 Quest Log</h3>
+      <h3 align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" width="30" align="center" /> 📜 Quest Log
+      </h3>
       <ul>
         <li><strong>👨‍💻 Designation:</strong> AI &amp; ML Engineer · Competitive Coder</li>
         <li><strong>🚀 Current Quest:</strong> Building <i>LAMINAR</i>, an AI Vision System</li>
@@ -51,7 +53,9 @@
     </td>
     <td width="4%" style="border: none; background: transparent;"></td>
     <td width="48%" align="center" valign="top" style="padding: 15px; border: 2px solid #00E5FF; border-radius: 12px; background: rgba(0,229,255,0.05);">
-      <h3 align="center">📊 Player Stats</h3>
+      <h3 align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="30" align="center" /> 📊 Player Stats
+      </h3>
       <img src="https://github-readme-stats.vercel.app/api?username=bhargavatejagolla&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&rank_icon=github&include_all_commits=true" alt="GitHub Stats" width="100%" /><br><br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavatejagolla&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117" alt="Top Languages" width="100%" />
     </td>
@@ -63,7 +67,9 @@
 </p>
 
 <!-- TECH STACK -->
-<h3 align="center">🎒 Inventory (Tech Stack)</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&height=40&lines=🎒+INVENTORY+(TECH+STACK)" alt="Tech Stack" />
+</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c,java,ts,js,html,css,react,nextjs,tailwind&perline=10" /><br><br>
@@ -76,7 +82,9 @@
 </p>
 
 <!-- STREAK & SNAKE ANIMATION -->
-<h3 align="center">🔥 Streak Miner & Snake System</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&height=40&lines=🔥+STREAK+MINER+%26+SNAKE+SYSTEM" alt="Streak Miner" />
+</p>
 <table width="100%" style="border: none; background: transparent;">
   <tr>
     <td width="20%" align="center" valign="middle" style="border: none; background: transparent;">
@@ -112,7 +120,9 @@
 </p>
 
 <!-- ACTIVITY GRAPH -->
-<h3 align="center">🕹️ Telemetry (GitHub Activity)</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&height=40&lines=🕹️+TELEMETRY+(ACTIVITY)" alt="Activity Graph" />
+</p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhargavatejagolla&bg_color=0D1117&color=FF00FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
@@ -122,15 +132,19 @@
 </p>
 
 <!-- MAIN QUESTS (FEATURED PROJECTS) -->
-<h3 align="center">⚔️ Main Quests</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&height=40&lines=⚔️+MAIN+QUESTS" alt="Main Quests" />
+</p>
 <table width="100%" style="border-collapse: collapse; border: none; background: transparent;">
   <tr>
     <td width="50%" style="padding: 15px; border: 2px solid #FF00FF; border-radius: 12px; background: rgba(255,0,255,0.05);">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" width="40" align="right" />
       <b>🤖 LAMINAR – AI Vision System</b><br>
       High‑performance monitoring for HD streams. <b>↓ 35% latency</b> &amp; <b>95%</b> anomaly detection accuracy.<br>
       <i>Python · Computer Vision · AI</i>
     </td>
     <td width="50%" style="padding: 15px; border: 2px solid #00E5FF; border-radius: 12px; background: rgba(0,229,255,0.05);">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dog%20Face.png" width="40" align="right" />
       <b>🐶 Deep Learning Dog Vision</b><br>
       Real‑time breed classification with <b>93%</b> top‑1 accuracy via transfer learning on 10k+ images.<br>
       <i>Python · Neural Networks · Colab</i>
@@ -138,11 +152,13 @@
   </tr>
   <tr>
     <td width="50%" style="padding: 15px; border: 2px solid #00E5FF; border-radius: 12px; background: rgba(0,229,255,0.05);">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Tractor.png" width="40" align="right" />
       <b>🚜 Bulldozer Price Prediction</b><br>
       End‑to‑end regression pipeline on 400k+ records, engineered 30+ features, <b>RMSLE 0.24</b>.<br>
       <i>Scikit‑Learn · Pandas</i>
     </td>
     <td width="50%" style="padding: 15px; border: 2px solid #FF00FF; border-radius: 12px; background: rgba(255,0,255,0.05);">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" width="40" align="right" />
       <b>🌱 Smart Plant System</b><br>
       IoT‑based irrigation with Arduino – <b>30% water saved</b>, autonomous operation for 3+ months.<br>
       <i>Arduino · IoT · C++</i>
@@ -155,7 +171,9 @@
 </p>
 
 <!-- ROBOT DANCE PARTY / FOOTER -->
-<h3 align="center">🤖 Player 1 Hub</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&height=40&lines=🤖+PLAYER+1+HUB" alt="Player 1 Hub" />
+</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="80" alt="Robot Emoji" />
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="80" alt="Hacker Emoji" />
