@@ -7,23 +7,20 @@
   ╚═╝     ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝     ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚══════╝
 -->
 
-<!-- BANNER (cyberpunk GIF – always loads) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="100%" height="200" style="object-fit:cover; border-radius:16px;" alt="Cyberpunk Banner"/>
+  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="100%" height="220" style="object-fit:cover; border-radius:16px;" alt="Cyberpunk Banner"/>
 </p>
 
-<!-- TYPING SVG (uses standard font stack – works everywhere) -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P,monospace&weight=900&size=24&pause=800&color=FF00FF&center=true&vCenter=true&width=900&height=100&lines=PLAYER+1+READY...;I'm+Bhargava+Teja+Golla;AI+%26+ML+Architect;Full-Stack+Innovator;Let's+Build+the+Future+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P,monospace&weight=900&size=24&pause=800&color=FF00FF&center=true&vCenter=true&width=1000&height=100&lines=PLAYER+1+READY...;I'm+Bhargava+Teja+Golla;AI+%26+ML+Architect;Full-Stack+Innovator;Let's+Build+the+Future+🚀" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/3o6Zt9Fb2p6fFTWc3a/giphy.gif" width="30" height="30" alt="blinking cursor" style="vertical-align: middle;" />
 </h1>
 
-<!-- STATUS -->
 <p align="center">
   <b>⭐ CLASS: AI ENGINEER</b> &nbsp;|&nbsp; <b>🎓 LEVEL: 2028</b> &nbsp;|&nbsp; <b>🏆 XP: 8.86 CGPA</b><br>
   <i>“Building intelligent systems and leveling up the future.”</i>
 </p>
 
-<!-- CONNECT BADGES (shields.io – fast & reliable) -->
 <p align="center">
   <a href="https://my-portfolio-backend-zeta-gray.vercel.app"><img src="https://img.shields.io/badge/🚀_Portfolio-FF00FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/golla-bhargava-teja"><img src="https://img.shields.io/badge/💼_LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/></a>
@@ -34,7 +31,7 @@
 
 ---
 
-<!-- TWO‑COLUMN: ABOUT + STATS (stats cards are live and update daily) -->
+<!-- TWO‑COLUMN: ABOUT + STATS -->
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
@@ -62,7 +59,7 @@
 
 ---
 
-<!-- TECH STACK (skillicons.dev – static icons, always show) -->
+<!-- TECH STACK -->
 <h3 align="center">🎒 Inventory (Tech Stack)</h3>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -73,10 +70,37 @@
 
 ---
 
-<!-- ACTIVITY GRAPH (live and always up‑to‑date) -->
+<!-- ACTIVITY GRAPH + STREAK EATER -->
 <h3 align="center">🕹️ Telemetry (GitHub Activity)</h3>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhargavatejagolla&bg_color=0D1117&color=FF00FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</p>
+
+<!-- Minecraft Streak Breaker -->
+<h3 align="center">🪓 Minecraft Streak Breaker</h3>
+<table align="center">
+  <tr>
+    <td align="center">
+      <b>Current Streak</b><br>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhargavatejagolla&theme=synthwave&hide_border=true&background=0D1117" width="300" alt="Streak" />
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/l0HlQ4Sx4JX1Kv5Ru/giphy.gif" width="150" alt="Creeper exploding green block" />
+      <br><i>Don’t let the green boxes explode!</i>
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/3o6Zt6KHxJTbMF0HkM/giphy.gif" width="150" alt="Pickaxe breaking block" />
+      <br><i>Keep mining those contributions!</i>
+    </td>
+  </tr>
+</table>
+
+<!-- Pac-Man eating contributions -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6ZtaWZQHk1O9Xq1W/giphy.gif" width="120" alt="Pac-Man eating dots" />
+  <img src="https://media.giphy.com/media/3o7buijTqhjxjbWj5C/giphy.gif" width="120" alt="Snake game" />
+  <br>
+  <i>Pac‑Man &amp; Snake: devouring your contribution grid (set up <a href="https://github.com/Platane/snk">snk</a> for real animation)</i>
 </p>
 
 ---
@@ -112,7 +136,7 @@
 
 ---
 
-<!-- GITHUB TROPHIES (gamification) -->
+<!-- GITHUB TROPHIES -->
 <h3 align="center">🏅 Achievements</h3>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bhargavatejagolla&theme=synthwave&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
@@ -120,25 +144,31 @@
 
 ---
 
-<!-- MINECRAFT STREAK BREAKER (instead of snake – animated GIF) -->
-<h3 align="center">⛏️ Minecraft Streak Breaker</h3>
+<!-- ROBOT ANIMATION BREAK -->
+<h3 align="center">🤖 Robot Dance Party</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt9Fb2p6fFTWc3a/giphy.gif" width="200" alt="Minecraft mining" />
+  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="120" alt="Robot dancing" />
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="120" alt="Robot coding" />
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="120" alt="Robot typing" />
+  <img src="https://media.giphy.com/media/3o6Zt9Fb2p6fFTWc3a/giphy.gif" width="120" alt="Robot mining" />
   <br>
-  <i>“Breaking the streak, block by block.”</i>
-  <br><br>
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" style="opacity:0.3;" />
-  <br>
-  <i>(Snake is disabled – we use a Minecraft miner instead!)</i>
+  <i>“Even robots need a break from building the future.”</i>
 </p>
 
 ---
 
-<!-- FUN FOOTER WITH MARIO GIFS (animated) -->
+<!-- MARIO COIN BLOCK FUN FOOTER -->
+<h3 align="center">🍄 Mario Coin Block</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="56" alt="Mario" />
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="56" alt="Mario" />
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="56" alt="Mario" />
+  <img src="https://media.giphy.com/media/3o6Zt8e9V0q3lYs0dq/giphy.gif" width="150" alt="Mario hitting coin block" />
+  <br>
+  <i>“Every commit is a coin. Collect them all!”</i>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="56" alt="Mario running" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="56" alt="Mario running" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="56" alt="Mario running" />
   <br><br>
   <i>“Talk is cheap. Show me the code.”</i> – <b>Linus Torvalds</b>
 </p>
