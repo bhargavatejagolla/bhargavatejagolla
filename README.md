@@ -59,7 +59,7 @@
 </table>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%" alt="Divider" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider" />
 </p>
 
 <!-- TECH STACK -->
@@ -108,7 +108,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%" alt="Divider" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider" />
 </p>
 
 <!-- ACTIVITY GRAPH -->
@@ -149,16 +149,6 @@
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%" alt="Divider" />
-</p>
-
-<!-- GITHUB TROPHIES -->
-<h3 align="center">🏅 Achievements</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhargavatejagolla&theme=synthwave&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider" />
