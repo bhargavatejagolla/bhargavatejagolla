@@ -20,10 +20,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="400" alt="Hello World Multiple Languages">
-</p>
-
-<p align="center">
   <b>⭐ CLASS: AI ENGINEER</b> &nbsp;|&nbsp; <b>🎓 LEVEL: 2028</b> &nbsp;|&nbsp; <b>🏆 XP: 8.86 CGPA</b><br>
   <i>“Building intelligent systems and leveling up the future.”</i>
 </p>
@@ -35,7 +31,6 @@
   <a href="mailto:bhargavatejagolla@gmail.com"><img src="https://img.shields.io/badge/📧_Email-FF0055?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/bhargavatejagolla"><img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <img src="https://komarev.com/ghpvc/?username=bhargavatejagolla&label=👁️_Profile_Views&color=00FFCC&style=for-the-badge" alt="Profile Views" />
-  <a href="#"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/63338029-e963-463a-88cb-c8f39c73e8d9" width="40"></a>
 </p>
 
 <!-- DIVIDER 1 -->
@@ -76,7 +71,7 @@
 
 <!-- DIVIDER 2 -->
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7f4fb7d4-5787-4f72-9a4d-9fb16d3cab39" width="100%" alt="Theme Divider" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Gradient Line Divider" />
 </p>
 
 <!-- TECH STACK -->
@@ -102,7 +97,7 @@
 
 <!-- DIVIDER 3 -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Animated Gradient Divider" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Fading Line Divider" />
 </p>
 
 <!-- STREAK & SNAKE ANIMATION -->
@@ -138,7 +133,7 @@
 
 <!-- DIVIDER 4 -->
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/bbda02a2-36d3-48ef-a3a8-41b0d17653d5" width="100%" alt="Theme Divider 2" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Gradient Line Divider" />
 </p>
 
 <!-- ACTIVITY GRAPH -->
@@ -152,7 +147,7 @@
 
 <!-- DIVIDER 5 -->
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/324065af-8ea3-453a-83a3-66ccba5797fb" width="100%" alt="Theme Divider 3" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Fading Line Divider" />
 </p>
 
 <!-- MAIN QUESTS (FEATURED PROJECTS) -->
@@ -195,15 +190,12 @@
 
 <!-- DIVIDER 6 -->
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f24776c2-0bd1-456a-af11-b5fbf93ffb78" width="100%" alt="Theme Divider 4" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" alt="Gradient Line Divider" />
 </p>
 
 <!-- ROBOT DANCE PARTY / FOOTER -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&height=40&lines=🤖+PLAYER+1+HUB" alt="Player 1 Hub" />
-</p>
-<p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="400" alt="Animated Hello Banner">
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width="200" alt="Code the cool stuff" />
