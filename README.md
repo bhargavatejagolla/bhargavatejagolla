@@ -84,10 +84,21 @@
        <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="80%" alt="Tech Stack Floating">
     </td>
     <td width="60%" align="center" valign="middle" style="border: none; background: transparent;">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,c,java,ts,js,html,css,react,nextjs,tailwind&perline=10" /><br><br>
-        <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,postgres,mysql,sqlite,arduino,git,github,vscode&perline=10" />
-      </a>
+      <div align="center">
+        <b>🌐 Web:</b>
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JS" width="45" height="45" />
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TS" width="45" height="45" />
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="45" height="45" />
+        &nbsp;&nbsp;&nbsp;
+        <b>⚙️ Core:</b>
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="45" height="45" />
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="45" height="45" />
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="45" height="45" />
+        <br><br>
+        <b>🗄️ Tools:</b>
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="45" height="45" />
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="45" height="45" />
+      </div>
     </td>
     <td width="20%" align="center" valign="middle" style="border: none; background: transparent;">
        <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/af212da4-8588-4d7c-8400-16e56f2746a0" width="80%" alt="Floating Work Structure">
