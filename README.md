@@ -85,19 +85,14 @@
     </td>
     <td width="60%" align="center" valign="middle" style="border: none; background: transparent;">
       <div align="center">
-        <b>🌐 Web:</b>
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JS" width="45" height="45" />
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TS" width="45" height="45" />
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="45" height="45" />
-        &nbsp;&nbsp;&nbsp;
-        <b>⚙️ Core:</b>
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="45" height="45" />
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="45" height="45" />
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="45" height="45" />
-        <br><br>
-        <b>🗄️ Tools:</b>
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="45" height="45" />
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="45" height="45" />
+        <br>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="35" align="center" />&nbsp;
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" align="center"/><br><br>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="35" align="center" />&nbsp;
+        <img src="https://skillicons.dev/icons?i=python,java,c,tensorflow,pytorch,sklearn" align="center"/><br><br>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" width="35" align="center" />&nbsp;
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,arduino,git,github,vscode" align="center"/>
+        <br>
       </div>
     </td>
     <td width="20%" align="center" valign="middle" style="border: none; background: transparent;">
