@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="#"><img src="https://user-images.githubusercontent.com/74038190/221352968-ac6f7b24-ed9a-4d00-a045-710caa6fc834.gif" width="40"></a>
-  <a href="https://my-portfolio-backend-zeta-gray.vercel.app"><img src="https://img.shields.io/badge/🚀_Portfolio-FF00FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+</a>
   <a href="https://linkedin.com/in/golla-bhargava-teja"><img src="https://img.shields.io/badge/💼_LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/></a>
   <a href="mailto:bhargavatejagolla@gmail.com"><img src="https://img.shields.io/badge/📧_Email-FF0055?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/bhargavatejagolla"><img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
